@@ -1,2 +1,3 @@
-# Adaptive-Retrieval-Enhanced-Generation-Model-for-Bridge-Damage-Diagnosis
-This project proposes an adaptive retrieval enhanced generation model in the field of bridge damage diagnosis, which integrates report preprocessing, machine reading understanding dataset construction, efficient embedding model fine-tuning, embedding model evaluation, and information retrieval enhanced generation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91c2cfa08b1d7cc39532a21175244a13054d18a5db1ed899fc580319d224e17b
+size 393
